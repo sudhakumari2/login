@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "name": "shireen",
+            "password": "Nazneen@1234",
+            "profile": {
+                "description": "aaaa",
+                "dob": "vvv",
+                "hobbies": "ll",
+                "gender": "lll"
+            }
+        }
+    ]
+}
